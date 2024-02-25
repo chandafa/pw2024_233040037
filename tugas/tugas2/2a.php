@@ -1,6 +1,6 @@
 <?php
 
-$nama_depan = "Candra ";
+$nama_depan = "Candra";
 $nama_belakang = "Kirana";
 
 for ($i = 1; $i <= 100; $i++) {
